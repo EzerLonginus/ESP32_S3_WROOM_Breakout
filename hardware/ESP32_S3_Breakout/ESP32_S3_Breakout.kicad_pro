@@ -116,7 +116,7 @@
         "min_silk_clearance": 0.0,
         "min_text_height": 0.75,
         "min_text_thickness": 0.01,
-        "min_through_hole_diameter": 0.3,
+        "min_through_hole_diameter": 0.19999999999999998,
         "min_track_width": 0.0,
         "min_via_annular_width": 0.09999999999999999,
         "min_via_diameter": 0.5,
@@ -456,27 +456,27 @@
     "netclass_assignments": null,
     "netclass_patterns": [
       {
-        "netclass": "USB_DATA",
+        "netclass": "Default",
         "pattern": "USB_DP"
       },
       {
-        "netclass": "USB_DATA",
+        "netclass": "Default",
         "pattern": "USB_DN"
       },
       {
-        "netclass": "USB_DATA",
+        "netclass": "Default",
         "pattern": "USB_D+"
       },
       {
-        "netclass": "USB_DATA",
+        "netclass": "Default",
         "pattern": "USB_D-"
       },
       {
-        "netclass": "USB_DATA",
+        "netclass": "Default",
         "pattern": "UD+"
       },
       {
-        "netclass": "USB_DATA",
+        "netclass": "Default",
         "pattern": "UD-"
       },
       {
